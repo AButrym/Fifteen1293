@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.softserve.academy.fifteen"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.softserve.academy.fifteen"
         minSdk = 28
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
